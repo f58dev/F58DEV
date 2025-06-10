@@ -26,14 +26,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/f58dev/f58dev/main/github-metrics.svg" alt="Metrics"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
