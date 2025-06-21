@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;System%20Architect;Full%20Stack%20Developer;Clean%20Architecture%20Lover;Always%20Engineering%20Production%20Systems&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;System%20Architect;Full%20Stack%20Developer;Clean%20Architecture%20Lover;Building%20Enterprise%20Systems&center=true&width=500&height=50&color=0A3D62&vCenter=true">
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ### 📈 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=f58dev&color=blueviolet&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=f58dev&color=0A3D62&style=flat-square">
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://coff.ee/f58dev" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-0A3D62?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
 
