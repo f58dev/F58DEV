@@ -3,7 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;System%20Architect;Full%20Stack%20Developer;Clean%20Architecture%20Lover;Building%20Enterprise%20Systems&center=true&width=500&height=50&color=0A3D62&vCenter=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Enterprise%20System%20Architect;Clean%20Architecture%20Evangelist;Full%20Stack%20Engineer;Security%20First%20Design;Building%20Production%20Systems&center=true&width=800&height=50&color=0A3D62&vCenter=true">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKxohF8vxbjZwdy/giphy.gif" width="300" />
 </p>
 
 ---
@@ -30,6 +36,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=f58dev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f58dev&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=f58dev&bg_color=000000&color=0A3D62&line=0A3D62&point=5DADE2&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/f58dev/f58dev/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
