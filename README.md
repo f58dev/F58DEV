@@ -49,6 +49,5 @@ I build **enterprise-grade, scalable, full-stack systems** with a focus on perfo
 
 ## ☕ You can support me by donating
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
-
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/f58dev)
 ---
