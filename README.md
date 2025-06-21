@@ -1,74 +1,51 @@
-# 👨‍💻 Casey Harper — Software Engineer | System Architect
+<h1 align="center">
+  👋 Welcome to Casey Harper's GitHub
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;System%20Architect;Full%20Stack%20Developer;Clean%20Architecture%20Lover;Always%20Engineering%20Production%20Systems&center=true&width=500&height=50">
+</p>
 
 ---
 
-> **"I don’t write code. I engineer systems that survive production pressure."**
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,vue,react,ts,js,sql,mongodb,postman,git,docker,linux,windows,macos" />
+</p>
 
 ---
 
-## 🧰 Technology Toolbox
+### 📊 GitHub Stats
 
-**Backend:**
-- ASP.NET Core 8 (C#), Node.js, .NET, RESTful APIs
-- Domain-Driven Design (DDD)
-- Secure Authentication (JWT, OAuth2)
-- Clean Architecture Principles
-
-**Frontend:**
-- Vue.js 3 (Composition API), React
-- TypeScript, JavaScript, Vite
-- Fully reactive UI engineering
-
-**Database:**
-- SQL Server (EF Core ORM), MongoDB
-- High integrity transactional design
-- Scalable data models
-
-**Infrastructure:**
-- Dockerized microservices
-- Cloud-native architecture
-- CI/CD Pipelines
-- Linux / Windows / MacOS environments
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f58dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f58dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=f58dev&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📊 My Engineering Focus
+### 🧠 Random Dev Quote
 
-- 🚀 Enterprise-scale distributed systems
-- 🔐 Security by design
-- 🏗️ Resilient, scalable backend APIs
-- ⚙️ High-performance architecture optimization
-- 🔄 Complex systems integration
-- 🧠 Systems that can live, scale, and adapt
+> *"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
 
 ---
 
-## 🧠 My Philosophy
+### 📈 Profile Visitors
 
-> “Real engineering is not just delivering features — it’s building solid, stable foundations for the future.”
-
----
-
-## 📩 Contact Me
-
-- 📧 Email: [f58team@gmail.com](mailto:f58team@gmail.com)
-- ☕ [Buy me a coffee](https://coff.ee/f58dev)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=f58dev&color=blueviolet&style=flat-square">
+</p>
 
 ---
 
-## ✨ Random Engineering Quote
+### ☕ Support Me
 
-> *“Simplicity is prerequisite for reliability.”*  
-> — Edsger W. Dijkstra
-
----
-
-## 🚀 About Me
-
-I am a systems engineer focused on building reliable, scalable, secure full stack solutions using modern enterprise architectures. My approach is driven by clean design principles, long-term maintainability, and production-readiness.
-
-I don’t build “projects”.  
-I design **systems** that survive long-term business growth.
+<p align="center">
+  <a href="https://coff.ee/f58dev" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
 
 ---
-
