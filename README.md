@@ -9,7 +9,7 @@ I build **enterprise-grade, scalable, full-stack systems** with a focus on perfo
 
 ## 🔧 Tech Stack
 
-![C](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -36,7 +36,7 @@ I build **enterprise-grade, scalable, full-stack systems** with a focus on perfo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f58dev&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f58dev&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=f58dev&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=f58dev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
@@ -50,4 +50,5 @@ I build **enterprise-grade, scalable, full-stack systems** with a focus on perfo
 ## ☕ You can support me by donating
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/f58dev)
+
 ---
