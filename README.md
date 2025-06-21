@@ -1,81 +1,54 @@
-# 🚀 Full Stack Architect | Enterprise-Grade Solutions | System Designer
+# 👋 Hi there, I'm Casey Harper
 
-> **“Code is easy. Engineering systems that survive the real world is the real art.”**
+## 🧑‍💻 Software Engineer
 
----
-
-## 👑 Who I Am
-
-I’m a **Full Stack Architect** who builds production-ready systems from the ground up.  
-I focus on real-world architectures, scalability, clean code, and future-proof designs.
-
-No tutorials. No scaffolds.  
-**Everything is engineered.**
+Welcome to my GitHub!  
+I build **enterprise-grade, scalable, full-stack systems** with a focus on performance, security, and clean architecture.
 
 ---
 
-## 🧰 My Stack
+## 🔧 Tech Stack
 
-### Backend Expertise:
-- 🧠 ASP.NET Core 8 (C#)
-- 🧠 RESTful API Design
-- 🧠 Enterprise Clean Architecture
-- 🧠 Domain-Driven Design (DDD)
-- 🧠 Secure Authorization (JWT)
-
-### Frontend Engineering:
-- 🎨 Vue.js 3 (Composition API)
-- 🎨 TypeScript + Vite + Axios
-- 🎨 Fully Reactive Real-Time Interfaces
-
-### Database & Persistence:
-- 💾 SQL Server (EF Core)
-- 💾 PostgreSQL
-- 💾 Scalable Data Models
-
-### Cloud & Deployment:
-- ☁️ Dockerized Microservices
-- ☁️ CI/CD Pipelines
-- ☁️ Cloud Native Deployments
+![C](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ---
 
-## 🏗️ My Philosophy
+## 🔗 Connect with me:
 
-- ✅ Systems must be **Clean**
-- ✅ Architectures must be **Scalable**
-- ✅ Code must be **Maintainable**
-- ✅ Deployment must be **Automated**
-- ✅ Security must be **By Design**
+- 📧 Email: [f58team@gmail.com](mailto:f58team@gmail.com)
 
 ---
 
-## 🎯 What I Build
+## 📊 GitHub Stats
 
-- Full Enterprise Backends  
-- Real REST APIs  
-- Admin Control Panels  
-- Authentication & Authorization Layers  
-- CI/CD & Cloud Infrastructure  
-- Full End-to-End Secure Systems
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f58dev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f58dev&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=f58dev&theme=tokyonight)
 
 ---
 
-## 📊 My GitHub Stats
+## 🧠 Random Dev Quote
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
-## 🔗 Contact Me
-
-- 📧 Email: f58team@gmail.com
+> *“I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.”*  
+> — *David Parnas*
 
 ---
 
-### ⚡ **“I don't build demos. I build production systems.”**
+## ☕ You can support me by donating
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
 
 ---
-
