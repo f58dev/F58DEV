@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=f58dev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f58dev&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=f58dev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=f58dev&bg_color=000000&color=0A3D62&line=0A3D62&point=5DADE2&area=true&hide_border=true" />
 </p>
 
 ---
