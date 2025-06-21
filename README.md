@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Building%20Enterprise%20Systems;System%20Architect;Security%20Driven;Full%20Stack%20Engineer;Production%20Code%20Builder&center=true&width=800&height=50&color=0A3D62&vCenter=true">
 </p>
 
+---
+
+### 📈 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=f58dev&color=0A3D62&style=flat-square">
+</p>
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
@@ -39,14 +49,6 @@
 ### 🧠 My Philosophy
 
 > "I don’t build demos. I build real, reliable production systems."
-
----
-
-### 📈 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=f58dev&color=0A3D62&style=flat-square">
-</p>
 
 ---
 
