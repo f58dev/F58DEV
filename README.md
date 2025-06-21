@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=f58dev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f58dev&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=f58dev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=f58dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://coff.ee/f58dev" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
 
