@@ -19,11 +19,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,vue,react,ts,js,sql,mongodb,postman,git,docker,linux,windows,macos" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,vue,react,ts,js,sql,mongodb,postman,git,docker,linux,windows,apple" />
 </p>
 
 ---
