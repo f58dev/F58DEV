@@ -1,11 +1,6 @@
 <h1 align="center">
   🚀 Casey Harper — Enterprise System Architect
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20Enterprise%20Systems;System%20Architect;Security%20Driven;Full%20Stack%20Engineer;Production%20Code%20Builder&center=true&width=800&height=50&color=0A3D62&vCenter=true">
-</p>
-
 ---
 
 ### 📈 Profile Visitors
@@ -13,6 +8,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=f58dev&color=0A3D62&style=flat-square">
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20Enterprise%20Systems;System%20Architect;Security%20Driven;Full%20Stack%20Engineer;Production%20Code%20Builder&center=true&width=800&height=50&color=0A3D62&vCenter=true">
+</p>
+
 
 ---
 
