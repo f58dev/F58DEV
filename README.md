@@ -7,6 +7,13 @@
 </p>
 
 ---
+### 📈 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=f58dev&color=0A3D62&style=flat-square">
+</p>
+
+---
 
 ### 🧰 Tech Stack
 
@@ -32,13 +39,6 @@
 
 ---
 
-### 📈 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=f58dev&color=0A3D62&style=flat-square">
-</p>
-
----
 
 ### ☕ Support Me
 
