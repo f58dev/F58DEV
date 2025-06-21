@@ -1,23 +1,44 @@
 <h1 align="center">
-  👋 Welcome to Casey Harper's GitHub
+  🚀 Casey Harper — System Architect | Full Stack Engineer
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;System%20Architect;Full%20Stack%20Developer;Enterprise%20Solutions%20Builder;Clean%20Architecture%20Lover;Building%20Production%20Systems&center=true&width=600&height=50&color=0A3D62&vCenter=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Enterprise%20Architect;Production%20System%20Builder;Clean%20Architecture%20Evangelist;Full%20Stack%20Engineer;Security%20First%20Design;Scalable%20Systems%20for%20Millions&center=true&width=800&height=50&color=0A3D62&vCenter=true">
+</p>
+---
+
+### 📈 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=f58dev&color=0A3D62&style=flat-square">
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🔥 My Core Engineering Principles
+
+> **"I don't build features. I build systems that survive."**
+
+- 🏗️ Systems must survive complexity & growth.
+- 🔒 Security-first, always by default.
+- ♻️ Clean Architecture for long-term maintainability.
+- 🚀 Performance-optimized for production loads.
+- ⚙️ Automated CI/CD from day one.
+- 🧱 Scalable microservice-ready architecture.
+- 📊 Monitoring & observability integrated.
+
+---
+
+### 🧰 My Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,vue,react,ts,js,sql,mongodb,postman,git,docker,linux,windows,apple" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-0A3D62?style=for-the-badge&logo=architectsboard" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise%20Systems-0A3D62?style=for-the-badge&logo=networkx" />
-  <img src="https://img.shields.io/badge/Stack-Full%20Stack%20Engineer-0A3D62?style=for-the-badge&logo=stackshare" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-0A3D62?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20Systems-0A3D62?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-System%20Reliability-0A3D62?style=for-the-badge" />
 </p>
 
 ---
@@ -32,45 +53,27 @@
 
 ---
 
+### 🚀 What I Build
+
+- Full enterprise-grade systems using .NET Core + Vue 3.
+- Cloud-native architectures with microservices.
+- Secure backend APIs with multi-layered authorization.
+- Complex distributed system integrations.
+- End-to-end monitoring & observability pipelines.
+- Production-ready deployments.
+
+---
+
+### 🌍 Long-Term Vision
+
+> "I design systems that outlive trends, scale under load, and remain clean after years."
+
+---
+
 ### 🧠 My Engineering Philosophy
 
-- ✅ Build for production, not for demo.
-- ✅ Security-first mindset.
-- ✅ Clean Architecture with long-term maintainability.
-- ✅ Always scalable by design.
-- ✅ DevOps integrated from day one.
-- ✅ Automation everywhere (CI/CD).
+> "Anyone can deliver features. Few can engineer systems."
 
----
-
-### 🚧 Currently Working On
-
-- 🔨 Building full-stack enterprise applications with .NET + Vue 3.
-- 🔒 Designing secure backend APIs with multi-layer authorization.
-- ☁️ Preparing cloud-native infrastructure with Docker & CI/CD.
-
----
-
-### 🌍 My Vision
-
-> To build robust, scalable, secure enterprise systems that serve millions of users and can grow without fear of collapse.  
-> Systems must live beyond trends.  
-> Architectures must survive business growth.  
-> Code must be clean, simple, and easy to extend.
-
----
-
-### 🧠 Random Dev Quote
-
-> *"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
-
----
-
-### 📈 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=f58dev&color=0A3D62&style=flat-square">
-</p>
 
 ---
 
