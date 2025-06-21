@@ -1,31 +1,27 @@
 <h1 align="center">
-  👋 Welcome to Casey Harper's GitHub
+  🚀 Casey Harper — Enterprise System Architect
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Enterprise%20System%20Architect;Clean%20Architecture%20Evangelist;Full%20Stack%20Engineer;Security%20First%20Design;Building%20Production%20Systems&center=true&width=800&height=50&color=0A3D62&vCenter=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20Enterprise%20Systems;System%20Architect;Security%20Driven;Full%20Stack%20Engineer;Production%20Code%20Builder&center=true&width=800&height=50&color=0A3D62&vCenter=true">
 </p>
-
----
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxohF8vxbjZwdy/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
 
-### 📈 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=f58dev&color=0A3D62&style=flat-square">
-</p>
-
----
-
-### 🧰 Tech Stack
+### 🧰 My Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,vue,react,ts,js,sql,mongodb,postman,git,docker,linux,windows,apple" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-0A3D62?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enterprise%20Ready-Yes-0A3D62?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-System%20Reliability-0A3D62?style=for-the-badge" />
 </p>
 
 ---
@@ -40,17 +36,17 @@
 
 ---
 
-### 🚀 Contribution Snake Animation
+### 🧠 My Philosophy
 
-<p align="center">
-  <img src="https://github.com/f58dev/f58dev/raw/output/github-contribution-grid-snake.svg" />
-</p>
+> "I don’t build demos. I build real, reliable production systems."
 
 ---
 
-### 🧠 Random Dev Quote
+### 📈 Profile Visitors
 
-> *"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=f58dev&color=0A3D62&style=flat-square">
+</p>
 
 ---
 
