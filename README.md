@@ -1,60 +1,74 @@
-# 👋 Hi there, I'm Casey Harper
-
-### 🧑‍💻 Software Engineer | Full Stack Developer
-
-> I don't build demos.  
-> I build scalable, secure, and production-ready systems.  
-> Clean architecture. Enterprise-level design.
+# 👨‍💻 Casey Harper — Software Engineer | System Architect
 
 ---
 
-## 🚀 Tech Stack
-
-**Backend:**  
-ASP.NET Core (C#), Node.js, .NET, RESTful APIs, Clean Architecture, DDD, SQL Server, MongoDB
-
-**Frontend:**  
-Vue.js 3 (Composition API), React, TypeScript, JavaScript, Vite, Responsive UI
-
-**Tools:**  
-Postman, Git, Docker, Linux, MacOS, Windows
+> **"I don’t write code. I engineer systems that survive production pressure."**
 
 ---
 
-## 🔧 Professional Highlights
+## 🧰 Technology Toolbox
 
-- 🔒 Security-first backend development
-- ⚙️ Scalable full stack architectures
-- 🧠 Domain-Driven Design (DDD)
-- 📈 Performance optimization
-- 🔄 Clean CI/CD pipelines
-- ☁️ Cloud-native deployments
-- 🏗️ Complex system integrations
+**Backend:**
+- ASP.NET Core 8 (C#), Node.js, .NET, RESTful APIs
+- Domain-Driven Design (DDD)
+- Secure Authentication (JWT, OAuth2)
+- Clean Architecture Principles
+
+**Frontend:**
+- Vue.js 3 (Composition API), React
+- TypeScript, JavaScript, Vite
+- Fully reactive UI engineering
+
+**Database:**
+- SQL Server (EF Core ORM), MongoDB
+- High integrity transactional design
+- Scalable data models
+
+**Infrastructure:**
+- Dockerized microservices
+- Cloud-native architecture
+- CI/CD Pipelines
+- Linux / Windows / MacOS environments
 
 ---
 
-## 💡 Random Dev Quote
+## 📊 My Engineering Focus
 
-> *“I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.”*  
-> — *David Parnas*
-
----
-
-## ☕ Support My Work
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/f58dev)
+- 🚀 Enterprise-scale distributed systems
+- 🔐 Security by design
+- 🏗️ Resilient, scalable backend APIs
+- ⚙️ High-performance architecture optimization
+- 🔄 Complex systems integration
+- 🧠 Systems that can live, scale, and adapt
 
 ---
 
-## 📩 Contact
+## 🧠 My Philosophy
+
+> “Real engineering is not just delivering features — it’s building solid, stable foundations for the future.”
+
+---
+
+## 📩 Contact Me
 
 - 📧 Email: [f58team@gmail.com](mailto:f58team@gmail.com)
+- ☕ [Buy me a coffee](https://coff.ee/f58dev)
 
 ---
 
-## 🎯 My Philosophy
+## ✨ Random Engineering Quote
 
-> “**Great developers engineer systems that survive reality, not just look cool in a demo.**”
+> *“Simplicity is prerequisite for reliability.”*  
+> — Edsger W. Dijkstra
+
+---
+
+## 🚀 About Me
+
+I am a systems engineer focused on building reliable, scalable, secure full stack solutions using modern enterprise architectures. My approach is driven by clean design principles, long-term maintainability, and production-readiness.
+
+I don’t build “projects”.  
+I design **systems** that survive long-term business growth.
 
 ---
 
