@@ -1,5 +1,5 @@
 <h1 align="center">
-  🤖 f58aie — AI Engineer & Full Stack System Architect
+  🤖 f58AIE — AI Engineer & Full Stack System Architect
 </h1>
 
 ### 📈 Profile Visitors
