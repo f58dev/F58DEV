@@ -34,18 +34,6 @@
 
 ---
 
-### 🐍 Python Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="400" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
