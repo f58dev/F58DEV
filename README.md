@@ -53,7 +53,7 @@
 ### ☕ Support Me
 
 <p align="center">
-  <a href="coff.ee/f58aie" target="_blank">
+  <a href="https://buymeacoffee.com/f58aie" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-0A3D62?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
